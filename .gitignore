@@ -1,0 +1,6 @@
+.trash/
+dump/
+/.idea/
+/*.iml
+/.vscode/
+/target/
